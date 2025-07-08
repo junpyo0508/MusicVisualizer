@@ -61,6 +61,6 @@ vec3 newPosition = position + normal * displacement;
 
 ## 만든이
 
-| 이름 | 소속 | 연락처 | 포트폴리오 |
-|------|------|--------|-------------|
-| **HongJunpyo (홍준표)** | Ajou University | 📫 junpyo508@ajou.ac.kr |
+| 이름 | 소속 | 연락처 |
+|------|------|--------|
+| **HongJunpyo (홍준표)** | Ajou University | junpyo508@ajou.ac.kr |
