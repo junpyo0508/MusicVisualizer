@@ -4,8 +4,9 @@
 사용자가 업로드한 음악을 실시간으로 분석하고, 주파수 세기에 따라 3D 오브젝트를 동적으로 변형시킵니다.  
 Perlin Noise 기반의 애니메이션과 Bloom 효과를 통해 몰입감 있는 시청각 경험을 제공합니다.
 
-[데모 링크](https://your-demo-link.com)  
-[GitHub 저장소](https://github.com/junpyo0508/YourRepoName)
+<img width="w-full" alt="스크린샷 2025-07-08 오후 9 23 00" src="https://github.com/user-attachments/assets/9b66cc79-4b21-43d7-800d-74f91a1a757d" />
+
+[데모 링크](https://junpyo0508.github.io/MusicVisualizer/)  
 
 ---
 
